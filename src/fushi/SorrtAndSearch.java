@@ -7,7 +7,13 @@ import java.util.stream.*;
 public class SorrtAndSearch {
 
 	
-	//3-6 二分查找
+	//3-7 这个是一个测试的代码
+	
+	
+	
+	
+	
+	//3-6 二分查
 	//二分查找返回x的下表,不存在返回-1
 	//二分查找要求给出来的数组是有序的，对于无序数组无法进行二分查找
 	public int BinarySearch(int[] nums,int x)
